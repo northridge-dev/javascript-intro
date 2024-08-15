@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Valid Variable Names",
+  "slug": "valid-variable-names",
+  "language": "javascript",
+  "type": "repl",
+  "tests": false,
+  "exports": []
+}

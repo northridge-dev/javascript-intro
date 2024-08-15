@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Hello, World",
+  "slug": "hello-world",
+  "language": "javascript",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}

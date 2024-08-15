@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "REPL Wizard",
+  "slug": "repl-wizard",
+  "language": "javascript",
+  "type": "repl",
+  "tests": false,
+  "exports": []
+}

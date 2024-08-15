@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Testing, Testing",
+  "slug": "testing-testing",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["smallestPerfectNumber", "favoriteNumber"]
+}

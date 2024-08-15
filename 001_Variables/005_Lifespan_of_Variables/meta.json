@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Lifespan of Variables",
+  "slug": "lifespan-of-variables",
+  "language": "javascript",
+  "type": "repl",
+  "tests": false,
+  "exports": []
+}

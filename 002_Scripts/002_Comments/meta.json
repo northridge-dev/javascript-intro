@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Comments",
+  "slug": "comments",
+  "language": "javascript",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}

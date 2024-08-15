@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Constants",
+  "slug": "constants",
+  "language": "javascript",
+  "type": "repl",
+  "tests": false,
+  "exports": []
+}

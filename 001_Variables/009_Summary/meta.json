@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "REPLs and Variables: Summary",
+  "slug": "summary",
+  "language": "javascript",
+  "type": "repl",
+  "tests": false,
+  "exports": []
+}
