@@ -1,10 +1,10 @@
 {
   "meta_type": "lesson",
   "version": 1,
-  "title": "Semicolons",
-  "slug": "semicolons",
+  "title": "Declaring Variables",
+  "slug": "declaring-variables",
   "language": "javascript",
-  "type": "repl",
+  "type": "editor",
   "tests": false,
   "exports": []
 }

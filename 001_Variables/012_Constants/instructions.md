@@ -1,24 +1,26 @@
-# Constants
+# Constant Variables
 
 You're getting good at creating and using variables.
 
 The most important thing to remember about variables is that they allow you to
 name values you want to store in memory.
 
-The second most important thing to remember: variables _vary_. They can change
-their values. You've already changed the value of some variables:
+As their name suggests, variables _vary_. They can change their values.
+You've already changed the value of some variables:
 
 ```javascript
-let x = 5;
-x = 33;
+let score = 0;
+score = 6;
 
 let sumOfTestScores = 75 + 83;
 sumOfTestScores = sumOfTestScores + 99;
 ```
 
 When you first create a variable, you use the `let` keyword, but not when you
-recall or update its value. (In fact, if you try to use `let` again with the
+recall or update its value. (As we saw, if you try to use `let` again with the
 same name, you'll get an error.)
+
+**But not all variables can change their value.**
 
 There's another way in JavaScript to make assignments -- to give a name to a
 value stored in memory -- but to prevent that value from changing. This kind of
@@ -27,7 +29,7 @@ unchanging assignment is called a **constant**.
 You create constants with the `const` keyword:
 
 ```javascript
-const inchesPerFoot = 12;
+const height = 12;
 ```
 
 If you try to reassign your constant, you'll get an error, something like:

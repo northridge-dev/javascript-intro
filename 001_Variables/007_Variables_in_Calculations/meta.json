@@ -1,8 +1,8 @@
 {
   "meta_type": "lesson",
   "version": 1,
-  "title": "REPLs and Variables: Summary",
-  "slug": "summary",
+  "title": "Variables in Calculations",
+  "slug": "variables-calculations",
   "language": "javascript",
   "type": "repl",
   "tests": false,

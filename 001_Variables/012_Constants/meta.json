@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Constant Variables",
+  "slug": "constant-variables",
+  "language": "javascript",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}

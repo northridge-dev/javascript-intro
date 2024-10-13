@@ -15,8 +15,8 @@ is all you need: `ReferenceError: x is not defined`.
 Let's fix that. First, click the "Clear" button to clean up your terminal. Now
 let's recreate the variable `x`:
 
-```javascript
-let x = 5;
+```
+x = 5
 ```
 
 Now if you type `x` and press enter, the JavaScript engine will again look in
@@ -28,24 +28,23 @@ the terminal cleaned up the old output, but it didn't reset the JavaScript
 engine's memory. Unlike the `_` variable, which is updated with each command,
 `x` is a stable. Try executing a few more commands:
 
-```javascript
-let theMeaningOfLife = 42;
-// 42
-let someNegativeNumber = -11;
+```
+luckyNumber = 7
+// 7
+negativeNumber = -11
 // -11
 ```
 
 If you were to ask for the value of `_` now, you'd get back `-11`. If you'd
-tried it one command earlier, you'd have gotten back `42`. But `x` is still `5`,
-`theMeaningOfLife` is still `42`, and `someNegativeNumber` is still `-11`.
+tried it one command earlier, you'd have gotten back `7`. But `x` is still `5`,
+`luckyNumber` is still `7`, and `negativeNumber` is still `-11`.
 But to be sure, you better check for yourself . . .
 
 The JavaScript engine will remember the value you assigned to `x` until you:
 
 - restart the REPL session, for example by refreshing the page
-- assign it a new value, for example by typing `x = 3;` (_Note that this time,
-  there's no `let`. That's intentional!_)
-- tell the JavaScript engine to forget it: `delete x;`
+- assign it a new value, for example by typing `x = 3`
+- tell the JavaScript engine to forget it: `delete x`
 
 Try for yourself. Give `x` a new value and confirm that you can get the updated
 value back. Then try deleting `x` and see what happens when you try to get its

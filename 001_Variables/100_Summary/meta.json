@@ -1,10 +1,10 @@
 {
   "meta_type": "lesson",
   "version": 1,
-  "title": "Constants",
-  "slug": "constants",
+  "title": "REPLs and Variables: Summary",
+  "slug": "summary",
   "language": "javascript",
-  "type": "repl",
+  "type": "editor",
   "tests": false,
   "exports": []
 }
