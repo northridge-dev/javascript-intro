@@ -2,10 +2,10 @@
 
 You're getting good at creating and using variables.
 
-The most important thing to remember about variables is that they allow you to
-name values you want to store in memory.
+The most important thing to remember about variables is: ** variables allow you to
+name values you want to store in memory.**
 
-As their name suggests, variables _vary_. They can change their values.
+As the word suggests, variables _vary_. They can change their values.
 You've already changed the value of some variables:
 
 ```javascript
