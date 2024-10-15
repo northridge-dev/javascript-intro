@@ -1,4 +1,4 @@
-# More Variables
+# Variables in Calculations
 
 So far we've created a lot of variables and set an initial value. But you can
 also use variables in calculations:
