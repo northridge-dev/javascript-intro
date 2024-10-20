@@ -1,0 +1,1 @@
+let smallestPerfectNumber = 6;
