@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Concatenating Strings",
+  "slug": "concatenating",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["greeting", "name", "welcomeMessage"]
+}
