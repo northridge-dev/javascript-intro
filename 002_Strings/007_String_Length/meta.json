@@ -1,0 +1,17 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "String Length",
+  "slug": "string-length",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": [
+    "message",
+    "messageNoSpaces",
+    "messageNoPunctuation",
+    "lengthMessage",
+    "lengthNoSpaces",
+    "lengthNoPunctuation"
+  ]
+}
