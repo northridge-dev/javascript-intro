@@ -1,0 +1,15 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Searching Strings, Part 2",
+  "slug": "search-strings-2",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": [
+    "index_of_Once",
+    "index_of_time",
+    "index_of_p",
+    "index_of_first_space"
+  ]
+}
