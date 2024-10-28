@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Searching Strings, Part 3",
+  "slug": "search-strings-3",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["index_of_seventh_e", "index_of_eleventh_e"]
+}
