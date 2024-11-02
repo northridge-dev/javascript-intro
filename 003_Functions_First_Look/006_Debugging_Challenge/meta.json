@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Debugging",
+  "slug": "debugging",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["capitalize"]
+}
