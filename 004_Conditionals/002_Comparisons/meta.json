@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Comparisons",
+  "slug": "comparisons",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["shouldBeTrue", "shouldBeFalse"]
+}
