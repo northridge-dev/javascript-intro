@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Write a First Function",
+  "slug": "first-function",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["giveMeFive"]
+}
