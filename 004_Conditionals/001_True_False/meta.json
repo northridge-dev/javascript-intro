@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "True, False",
+  "slug": "true-false",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["isRaining", "isTuesday", "isCodingRad"]
+}
