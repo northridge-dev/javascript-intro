@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Grade Calculator</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js"></script>
+    <script defer>
+      const secretNumber = Math.floor(Math.random() * upperBound) + lowerBound;
+    </script>
+  </head>
+  <body>
+    <h1>Guess the Number!</h1>
+    <p id="instructions"></p>
+    <form id="guess-form" onsubmit="handleSubmit(event)">
+      <label for="guess">Enter your guess</label>
+      <input type="number" id="guess" name="guess" />
+      <button type="submit">Guess</button>
+    </form>
+    <p id="feedback"></p>
+    <script>
+      function handleSubmit(event) {
+        // Avoid page reload
+        event.preventDefault();
+
+        // Process the form values
+        const formData = new FormData(event.target);
+        const guessRaw = formData.get("guess");
+        const guess = parseInt(guessRaw, 10); // convert string to number
+
+        // Call the `calculateGrade` function to get calculated grade
+        const message = checkGuess(guess, upperBound, lowerBound, secretNumber);
+
+        // Display the calculated grade
+        const feedbackElement = document.getElementById("feedback");
+        feedbackElement.textContent = message || "";
+      }
+
+      document.getElementById("instructions").textContent =
+        `Guess a number between ${lowerBound} and ${upperBound}`;
+    </script>
+  </body>
+</html>

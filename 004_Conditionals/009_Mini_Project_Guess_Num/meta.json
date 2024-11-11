@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Mini Project: Number Guessing Game",
+  "slug": "number-guessing-game",
+  "language": "html",
+  "type": "editor",
+  "tests": true,
+  "exports": ["checkGuess"]
+}
