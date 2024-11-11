@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Grade Calculator</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script>
+      function handleSubmit(event) {
+        // Avoid page reload
+        event.preventDefault();
+
+        // Process the form values
+        const formData = new FormData(event.target);
+        const scoreRaw = formData.get("score");
+        const score = parseInt(scoreRaw, 10); // convert string to number
+
+        // Call the `calculateGrade` function to get calculated grade
+        const calculatedGrade = calculateGrade(score);
+
+        // Display the calculated grade
+        const gradeElement = document.getElementById("grade");
+        gradeElement.textContent = calculatedGrade;
+      }
+    </script>
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <h1>Grade Calculator</h1>
+    <form id="grade-form" onsubmit="handleSubmit(event)">
+      <label for="score">Enter your score:</label>
+      <input type="number" id="score" name="score" min="0" max="100" />
+      <button type="submit">Calculate</button>
+    </form>
+    <p>Your grade is: <span id="grade"></span></p>
+  </body>
+</html>

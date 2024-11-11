@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Mini Project: Grade Calculator",
+  "slug": "grade-calculator",
+  "language": "html",
+  "type": "editor",
+  "tests": true,
+  "exports": ["calculateGrade"]
+}
