@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Challenge: Swap First and Last",
+  "slug": "swap-first-last",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["swap"]
+}
