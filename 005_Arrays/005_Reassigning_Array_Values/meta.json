@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Reassigning Array Values",
+  "slug": "reassigning-array-values",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["topSecret"]
+}
