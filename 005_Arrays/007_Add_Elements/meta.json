@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Add Elements",
+  "slug": "add-elements",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["addElements"]
+}
