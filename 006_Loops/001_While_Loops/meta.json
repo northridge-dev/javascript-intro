@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "While Loops",
+  "slug": "while-loops",
+  "language": "javascript",
+  "type": "editor",
+  "tests": false,
+  "exports": []
+}
