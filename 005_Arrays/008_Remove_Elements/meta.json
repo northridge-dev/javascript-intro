@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Remove Elements",
+  "slug": "remove-elements",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["removeLast"]
+}
