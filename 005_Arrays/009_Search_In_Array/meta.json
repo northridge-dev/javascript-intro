@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Search in an Array",
+  "slug": "search-in-array",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["exactlyOnce"]
+}
