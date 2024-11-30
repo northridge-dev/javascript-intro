@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Range Generator: Add Step Size",
+  "slug": "range-generator-step-size",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["makeRange"]
+}
