@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Range Generator",
+  "slug": "range-generator",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["makeRange"]
+}
