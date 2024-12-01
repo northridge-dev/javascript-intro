@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Practic For Loop Array Iteration",
+  "slug": "practice-for-loop-array-iteration",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["multiply"]
+}
