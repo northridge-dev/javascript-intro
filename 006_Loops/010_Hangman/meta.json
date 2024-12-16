@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Mini Project: Hangman",
+  "slug": "hangman",
+  "language": "html",
+  "type": "playground",
+  "tests": false,
+  "exports": []
+}
