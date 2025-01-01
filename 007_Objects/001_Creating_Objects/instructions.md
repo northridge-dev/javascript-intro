@@ -7,11 +7,11 @@ other objects.
 Here's the simplest way to create an object:
 
 ```javascript
-const class = {
-  name: 'Web Development',
+const course = {
+  name: "Web Development",
   period: 5,
-  students: ['Robert', 'Bob', 'Rob', 'Bobby', 'Roberto'],
-}
+  students: ["Robert", "Bob", "Rob", "Bobby", "Roberto"],
+};
 ```
 
 Key points:
