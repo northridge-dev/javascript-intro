@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Nested Objects",
+  "slug": "nested-objects",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["president"]
+}
