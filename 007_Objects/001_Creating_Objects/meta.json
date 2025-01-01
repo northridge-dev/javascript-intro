@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Creating Objects",
+  "slug": "creating-objects",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["student"]
+}
