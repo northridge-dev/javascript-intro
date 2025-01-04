@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Objects as Function Inputs",
+  "slug": "objects-as-function-inputs",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["lowercaseVals"]
+}
