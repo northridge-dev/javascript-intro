@@ -1,0 +1,10 @@
+{
+  "meta_type": "lesson",
+  "version": 1,
+  "title": "Looping through Objects",
+  "slug": "looping-objects",
+  "language": "javascript",
+  "type": "editor",
+  "tests": true,
+  "exports": ["keyValSwap"]
+}
